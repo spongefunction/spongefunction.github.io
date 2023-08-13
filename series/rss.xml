@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Series - series - with spongefunction</title>
+        <link>https://spongefunction.github.io/series/</link>
+        <description>Series - series - with spongefunction</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>sayhi@hitori.rocks (spongefunk)</managingEditor>
+            <webMaster>sayhi@hitori.rocks (spongefunk)</webMaster><copyright>© 2023 spongefunction</copyright><atom:link href="https://spongefunction.github.io/series/" rel="self" type="application/rss+xml" /></channel>
+</rss>

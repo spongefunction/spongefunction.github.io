@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://spongefunction.github.io/categories/</loc>
-  </url><url>
-    <loc>http://spongefunction.github.io/</loc>
-  </url><url>
-    <loc>http://spongefunction.github.io/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://spongefunction.github.io/posts/</loc><lastmod>2023-07-31T22:45:21-04:00</lastmod></url><url>
+            <loc>https://spongefunction.github.io/posts/why-hitori-rocks/</loc><lastmod>2023-07-31T22:45:21-04:00</lastmod></url><url>
+            <loc>https://spongefunction.github.io/</loc><lastmod>2023-07-31T22:45:21-04:00</lastmod></url><url>
+            <loc>https://spongefunction.github.io/about/</loc><lastmod>2023-07-31T22:41:59-04:00</lastmod></url><url>
+            <loc>https://spongefunction.github.io/categories/</loc></url><url>
+            <loc>https://spongefunction.github.io/series/</loc></url><url>
+            <loc>https://spongefunction.github.io/tags/</loc></url></urlset>
