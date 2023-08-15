@@ -1,8 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Categories - Category - with spongefunction</title>
-        <link>https://spongefunction.github.io/categories/</link>
-        <description>Categories - Category - with spongefunction</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>sayhi@hitori.rocks (spongefunk)</managingEditor>
-            <webMaster>sayhi@hitori.rocks (spongefunk)</webMaster><copyright>© 2023 spongefunction</copyright><atom:link href="https://spongefunction.github.io/categories/" rel="self" type="application/rss+xml" /></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on with spongefunction</title>
+    <link>https://spongefunction.github.io/categories/</link>
+    <description>Recent content in Categories on with spongefunction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sayhi@hitori.rocks (spongefunk)</managingEditor>
+    <webMaster>sayhi@hitori.rocks (spongefunk)</webMaster>
+    <copyright>© 2023 spongefunk</copyright>
+    <atom:link href="https://spongefunction.github.io/categories/rss.xml" rel="self" type="application/rss+xml" />
+  </channel>
 </rss>

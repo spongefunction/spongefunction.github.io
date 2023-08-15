@@ -1,17 +1,24 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>All Posts - with spongefunction</title>
-        <link>https://spongefunction.github.io/posts/</link>
-        <description>All Posts | with spongefunction</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>sayhi@hitori.rocks (spongefunk)</managingEditor>
-            <webMaster>sayhi@hitori.rocks (spongefunk)</webMaster><copyright>© 2023 spongefunction</copyright><lastBuildDate>Mon, 31 Jul 2023 22:45:21 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Why Hitori Rocks</title>
-    <link>https://spongefunction.github.io/posts/why-hitori-rocks/</link>
-    <pubDate>Mon, 31 Jul 2023 22:45:21 -0400</pubDate>
-    <author>spongefunk</author>
-    <guid>https://spongefunction.github.io/posts/why-hitori-rocks/</guid>
-    <description><![CDATA[<p>‘hitori’ means alone in Japanese. So the domain name I&rsquo;ve been using - hitori.rocks -means, I rock alone.</p>
-]]></description>
-</item>
-</channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on with spongefunction</title>
+    <link>https://spongefunction.github.io/posts/</link>
+    <description>Recent content in Posts on with spongefunction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sayhi@hitori.rocks (spongefunk)</managingEditor>
+    <webMaster>sayhi@hitori.rocks (spongefunk)</webMaster>
+    <copyright>© 2023 spongefunk</copyright>
+    <lastBuildDate>Mon, 31 Jul 2023 22:45:21 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/posts/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Hitori Rocks</title>
+      <link>https://spongefunction.github.io/posts/why-hitori-rocks/</link>
+      <pubDate>Mon, 31 Jul 2023 22:45:21 -0400</pubDate>
+      <author>sayhi@hitori.rocks (spongefunk)</author>
+      <guid>https://spongefunction.github.io/posts/why-hitori-rocks/</guid>
+      <description>‘hitori’ means alone in Japanese. So the domain name I&amp;rsquo;ve been using - hitori.rocks -means, I rock alone.</description>
+      
+    </item>
+    
+  </channel>
 </rss>
