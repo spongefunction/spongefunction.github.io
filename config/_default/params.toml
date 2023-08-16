@@ -5,27 +5,27 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "avocado"
+colorScheme = "blowfish"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["portfolio", "posts"]
 # robots = ""
 
 disableImageOptimization = true
 
-defaultBackgroundImage = "background.jpg" # used as default for background images 
+defaultBackgroundImage = "/img/background.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
-# smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -37,11 +37,11 @@ smartTOC = true
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
@@ -52,10 +52,10 @@ smartTOC = true
   showDateUpdated = false
   showAuthor = true
   showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -75,18 +75,18 @@ smartTOC = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 
 [list]
-  showHero = false
+  showHero = true
   # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
-  groupByYear = true
-  cardView = false
+  showCards = true
+  groupByYear = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 

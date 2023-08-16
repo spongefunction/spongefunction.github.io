@@ -2,6 +2,8 @@
 title: "Portfolio"
 date: 2023-08-13
 draft: false
+cascade:
+  showReadingTime: false
 ---
 
 Hi this is my portfolio.
