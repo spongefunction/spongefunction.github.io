@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'Input Mono Regular';
+    src: url('/fonts/InputMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Input Sans Regular';
+    src: url('/fonts/InputSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Input Serif Regular';
+    src: url('/fonts/InputSerif-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$code-font-family: 'Input Mono Regular', Source Code Pro, Menlo, Consolas, Monaco, monospace;
+
+// themes/LoveIt/assets/css/_variables.scss
+// $global-font-family: system-ui, -apple-system, Segoe UI, Roboto, Emoji, Helvetica, Arial, sans-serif !default;
+$global-font-family: Helvetica, Arial, sans-serif;
+
+
+// Color of the background
+$global-background-color: #e3edeb;
+$global-background-color-dark: #292a2d !default;
+
+// Color of the text
+$global-font-color: #a986b5;
+$global-font-color-dark: #c3c3ce;
+
+// Color of the secondary text
+$global-font-secondary-color: #75aa6d;
+$global-font-secondary-color-dark: #a1b1a7;
+
+// Color of the header background
+$header-background-color: #caddd9;
+$header-background-color-dark: #252627 !default;
+
+$global-link-color: #54054d;
+
+// Font family and size of the header title
+$header-title-font-family: $code-font-family;
+$header-title-font-size: 1.5rem !default;
+
+
+// Color of the hover header item
+$header-hover-color: #9a792d;
+$header-hover-color-dark: #fff !default;
