@@ -11,12 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "📎Portfolio"
+ name = "🗂 Portfolio"
  pageRef = "portfolio"
  weight = 10
 
 [[main]]
- name = "🍓Posts"
+ name = "🍓 Posts"
  pageRef = "posts"
  weight = 20
 
