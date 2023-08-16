@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on def spongefunction(world)</title>
+    <title>Posts on def spongefunction(world):</title>
     <link>https://spongefunction.github.io/posts/</link>
-    <description>Recent content in Posts on def spongefunction(world)</description>
+    <description>Recent content in Posts on def spongefunction(world):</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 spongefunk</copyright>
-    <lastBuildDate>Mon, 31 Jul 2023 22:45:21 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Wed, 16 Aug 2023 03:21:37 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Configuring This Site</title>
+      <link>https://spongefunction.github.io/posts/configuring-this-site/</link>
+      <pubDate>Wed, 16 Aug 2023 03:21:37 -0400</pubDate>
+      
+      <guid>https://spongefunction.github.io/posts/configuring-this-site/</guid>
+      <description>Configuring this site took at least 3 days.</description>
+      
+    </item>
+    
     <item>
       <title>Why Hitori Rocks</title>
       <link>https://spongefunction.github.io/posts/why-hitori-rocks/</link>

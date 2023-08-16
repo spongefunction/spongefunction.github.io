@@ -4,6 +4,24 @@
   
     
       <url>
+            <loc>https://spongefunction.github.io/posts/configuring-this-site/</loc>
+            <lastmod>2023-08-16T03:21:37-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://spongefunction.github.io/posts/</loc>
+            <lastmod>2023-08-16T03:21:37-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
             <loc>https://spongefunction.github.io/portfolio/3rd-project/</loc>
             <lastmod>2023-08-16T00:16:12-04:00</lastmod>
             <changefreq>daily</changefreq>
@@ -22,8 +40,8 @@
   
     
       <url>
-            <loc>https://spongefunction.github.io/portfolio/</loc>
-            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+            <loc>https://spongefunction.github.io/portfolio/introvertcopilot/</loc>
+            <lastmod>2023-08-16T00:14:35-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
@@ -31,8 +49,8 @@
   
     
       <url>
-            <loc>https://spongefunction.github.io/posts/</loc>
-            <lastmod>2023-07-31T22:45:21-04:00</lastmod>
+            <loc>https://spongefunction.github.io/portfolio/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
