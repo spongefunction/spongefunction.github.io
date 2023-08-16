@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on def spongefunction(world)</title>
-    <link>https://spongefunction.github.io/</link>
-    <description>Recent content in About on def spongefunction(world)</description>
+    <title>Portfolio on def spongefunction(world)</title>
+    <link>https://spongefunction.github.io/portfolio/</link>
+    <description>Recent content in Portfolio on def spongefunction(world)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 spongefunk</copyright>
-    <lastBuildDate>Mon, 31 Jul 2023 22:41:59 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://spongefunction.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3rd Project</title>
       <link>https://spongefunction.github.io/portfolio/3rd-project/</link>
@@ -25,16 +25,6 @@
       
       <guid>https://spongefunction.github.io/portfolio/2nd-project/</guid>
       <description>Here is my second project.</description>
-      
-    </item>
-    
-    <item>
-      <title>Why Hitori Rocks</title>
-      <link>https://spongefunction.github.io/posts/why-hitori-rocks/</link>
-      <pubDate>Mon, 31 Jul 2023 22:45:21 -0400</pubDate>
-      
-      <guid>https://spongefunction.github.io/posts/why-hitori-rocks/</guid>
-      <description>‘hitori’ means alone in Japanese.</description>
       
     </item>
     
