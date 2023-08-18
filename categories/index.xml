@@ -7,6 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <atom:link href="https://spongefunction.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 01:38:37 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>database</title>
+      <link>https://spongefunction.github.io/categories/database/</link>
+      <pubDate>Fri, 18 Aug 2023 01:38:37 -0400</pubDate>
+      
+      <guid>https://spongefunction.github.io/categories/database/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>hands-on</title>
+      <link>https://spongefunction.github.io/categories/hands-on/</link>
+      <pubDate>Fri, 18 Aug 2023 01:38:37 -0400</pubDate>
+      
+      <guid>https://spongefunction.github.io/categories/hands-on/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>milestone</title>
+      <link>https://spongefunction.github.io/categories/milestone/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://spongefunction.github.io/categories/milestone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>https://spongefunction.github.io/categories/site/</link>
+      <pubDate>Wed, 16 Aug 2023 03:21:37 -0400</pubDate>
+      
+      <guid>https://spongefunction.github.io/categories/site/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

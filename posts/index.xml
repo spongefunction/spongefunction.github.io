@@ -7,15 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copy, _right?_ :thinking_face:</copyright>
-    <lastBuildDate>Wed, 16 Aug 2023 03:21:37 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Aug 2023 01:38:37 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First trial on MongoDB</title>
+      <link>https://spongefunction.github.io/posts/mongodb-hands-on-notes/</link>
+      <pubDate>Fri, 18 Aug 2023 01:38:37 -0400</pubDate>
+      
+      <guid>https://spongefunction.github.io/posts/mongodb-hands-on-notes/</guid>
+      <description>Playing with a new db is fun! Especially when it is not in the required courses.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/mongodb-hands-on-notes/featured-mongosh.png" />
+    </item>
+    
+    <item>
+      <title>Celebrate First Hackathon Win</title>
+      <link>https://spongefunction.github.io/posts/celebrate-first-hackathon-win/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://spongefunction.github.io/posts/celebrate-first-hackathon-win/</guid>
+      <description>It&amp;rsquo;s our first time to participate in a hackathon, and first time to create something as a team. Guess who loves short intensive projects? Me. And we all love the $1000 prize.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/celebrate-first-hackathon-win/featured-pitchlogo.png" />
+    </item>
+    
     <item>
       <title>Configuring This Site</title>
       <link>https://spongefunction.github.io/posts/configuring-this-site/</link>
       <pubDate>Wed, 16 Aug 2023 03:21:37 -0400</pubDate>
       
       <guid>https://spongefunction.github.io/posts/configuring-this-site/</guid>
-      <description>Configuring this site took at least 3 days.</description>
-      
+      <description>What I did right and wrong in booting up this site with tons of theme docs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/configuring-this-site/featured-blowfish.png" />
     </item>
     
     <item>
@@ -25,7 +45,7 @@
       
       <guid>https://spongefunction.github.io/posts/why-hitori-rocks/</guid>
       <description>‘hitori’ means alone in Japanese.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/why-hitori-rocks/featured-picrew.png" />
     </item>
     
   </channel>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackathon on def spongefunction(world):</title>
+    <link>https://spongefunction.github.io/tags/hackathon/</link>
+    <description>Recent content in hackathon on def spongefunction(world):</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Fri, 18 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://spongefunction.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Celebrate First Hackathon Win</title>
+      <link>https://spongefunction.github.io/posts/celebrate-first-hackathon-win/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://spongefunction.github.io/posts/celebrate-first-hackathon-win/</guid>
+      <description>It&amp;rsquo;s our first time to participate in a hackathon, and first time to create something as a team. Guess who loves short intensive projects? Me. And we all love the $1000 prize.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/celebrate-first-hackathon-win/featured-pitchlogo.png" />
+    </item>
+    
+  </channel>
+</rss>

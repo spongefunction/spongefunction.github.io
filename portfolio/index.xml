@@ -9,43 +9,33 @@
     <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://spongefunction.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mymediumtest</title>
-      <link>https://spongefunction.github.io/portfolio/mymediumtest/</link>
-      <pubDate>Wed, 16 Aug 2023 03:09:15 -0400</pubDate>
+      <title>Design - Foodie, a food delivery app</title>
+      <link>https://spongefunction.github.io/portfolio/foodie/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://spongefunction.github.io/portfolio/mymediumtest/</guid>
-      <description>I wrote a post on Medium.</description>
-      
+      <guid>https://spongefunction.github.io/portfolio/foodie/</guid>
+      <description>Foodie makes your food ordering process enjoyable. Don&amp;rsquo;t know what to eat? Come and get a hint from our community curated recommendations and food matches!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/portfolio/foodie/featured-foodie-logo.png" />
     </item>
     
     <item>
-      <title>3rd Project</title>
-      <link>https://spongefunction.github.io/portfolio/3rd-project/</link>
-      <pubDate>Wed, 16 Aug 2023 00:16:12 -0400</pubDate>
+      <title>Design - PitchJams</title>
+      <link>https://spongefunction.github.io/portfolio/pitchjams/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://spongefunction.github.io/portfolio/3rd-project/</guid>
-      <description>Here is my third project.</description>
-      
+      <guid>https://spongefunction.github.io/portfolio/pitchjams/</guid>
+      <description>A website that allow people to upload pitches and share to their community and audience, especially future investors.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/portfolio/pitchjams/featured-pitchjams.png" />
     </item>
     
     <item>
-      <title>2nd Project</title>
-      <link>https://spongefunction.github.io/portfolio/2nd-project/</link>
-      <pubDate>Wed, 16 Aug 2023 00:15:58 -0400</pubDate>
-      
-      <guid>https://spongefunction.github.io/portfolio/2nd-project/</guid>
-      <description>Here is my second project.</description>
-      
-    </item>
-    
-    <item>
-      <title>Frontend Introvert Copilot</title>
+      <title>Frontend - Introvert Copilot</title>
       <link>https://spongefunction.github.io/portfolio/introvertcopilot/</link>
-      <pubDate>Wed, 16 Aug 2023 00:14:35 -0400</pubDate>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://spongefunction.github.io/portfolio/introvertcopilot/</guid>
-      <description>This is summary.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/portfolio/introvertcopilot/featuredlogo.png" />
+      <description>A website that use ChatGPT as your social script ghostwriter! Deals with multiple context and objects.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/portfolio/introvertcopilot/featured-introvert.jpg" />
     </item>
     
   </channel>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>database on def spongefunction(world):</title>
+    <link>https://spongefunction.github.io/categories/database/</link>
+    <description>Recent content in database on def spongefunction(world):</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Fri, 18 Aug 2023 01:38:37 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/categories/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First trial on MongoDB</title>
+      <link>https://spongefunction.github.io/posts/mongodb-hands-on-notes/</link>
+      <pubDate>Fri, 18 Aug 2023 01:38:37 -0400</pubDate>
+      
+      <guid>https://spongefunction.github.io/posts/mongodb-hands-on-notes/</guid>
+      <description>Playing with a new db is fun! Especially when it is not in the required courses.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/mongodb-hands-on-notes/featured-mongosh.png" />
+    </item>
+    
+  </channel>
+</rss>

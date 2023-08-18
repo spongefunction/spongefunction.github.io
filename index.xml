@@ -9,43 +9,63 @@
     <copyright>Copy, _right?_ :thinking_face:</copyright>
     <lastBuildDate>Mon, 31 Jul 2023 22:41:59 -0400</lastBuildDate><atom:link href="https://spongefunction.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>First trial on MongoDB</title>
+      <link>https://spongefunction.github.io/posts/mongodb-hands-on-notes/</link>
+      <pubDate>Fri, 18 Aug 2023 01:38:37 -0400</pubDate>
+      
+      <guid>https://spongefunction.github.io/posts/mongodb-hands-on-notes/</guid>
+      <description>Playing with a new db is fun! Especially when it is not in the required courses.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/mongodb-hands-on-notes/featured-mongosh.png" />
+    </item>
+    
+    <item>
+      <title>Celebrate First Hackathon Win</title>
+      <link>https://spongefunction.github.io/posts/celebrate-first-hackathon-win/</link>
+      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://spongefunction.github.io/posts/celebrate-first-hackathon-win/</guid>
+      <description>It&amp;rsquo;s our first time to participate in a hackathon, and first time to create something as a team. Guess who loves short intensive projects? Me. And we all love the $1000 prize.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/celebrate-first-hackathon-win/featured-pitchlogo.png" />
+    </item>
+    
+    <item>
       <title>Configuring This Site</title>
       <link>https://spongefunction.github.io/posts/configuring-this-site/</link>
       <pubDate>Wed, 16 Aug 2023 03:21:37 -0400</pubDate>
       
       <guid>https://spongefunction.github.io/posts/configuring-this-site/</guid>
-      <description>Configuring this site took at least 3 days.</description>
-      
+      <description>What I did right and wrong in booting up this site with tons of theme docs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/configuring-this-site/featured-blowfish.png" />
     </item>
     
     <item>
-      <title>3rd Project</title>
-      <link>https://spongefunction.github.io/portfolio/3rd-project/</link>
-      <pubDate>Wed, 16 Aug 2023 00:16:12 -0400</pubDate>
+      <title>Design - Foodie, a food delivery app</title>
+      <link>https://spongefunction.github.io/portfolio/foodie/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://spongefunction.github.io/portfolio/3rd-project/</guid>
-      <description>Here is my third project.</description>
-      
+      <guid>https://spongefunction.github.io/portfolio/foodie/</guid>
+      <description>Foodie makes your food ordering process enjoyable. Don&amp;rsquo;t know what to eat? Come and get a hint from our community curated recommendations and food matches!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/portfolio/foodie/featured-foodie-logo.png" />
     </item>
     
     <item>
-      <title>2nd Project</title>
-      <link>https://spongefunction.github.io/portfolio/2nd-project/</link>
-      <pubDate>Wed, 16 Aug 2023 00:15:58 -0400</pubDate>
+      <title>Design - PitchJams</title>
+      <link>https://spongefunction.github.io/portfolio/pitchjams/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://spongefunction.github.io/portfolio/2nd-project/</guid>
-      <description>Here is my second project.</description>
-      
+      <guid>https://spongefunction.github.io/portfolio/pitchjams/</guid>
+      <description>A website that allow people to upload pitches and share to their community and audience, especially future investors.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/portfolio/pitchjams/featured-pitchjams.png" />
     </item>
     
     <item>
-      <title>Frontend Introvert Copilot</title>
+      <title>Frontend - Introvert Copilot</title>
       <link>https://spongefunction.github.io/portfolio/introvertcopilot/</link>
-      <pubDate>Wed, 16 Aug 2023 00:14:35 -0400</pubDate>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://spongefunction.github.io/portfolio/introvertcopilot/</guid>
-      <description>This is summary.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/portfolio/introvertcopilot/featuredlogo.png" />
+      <description>A website that use ChatGPT as your social script ghostwriter! Deals with multiple context and objects.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/portfolio/introvertcopilot/featured-introvert.jpg" />
     </item>
     
     <item>
@@ -55,7 +75,7 @@
       
       <guid>https://spongefunction.github.io/posts/why-hitori-rocks/</guid>
       <description>‘hitori’ means alone in Japanese.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/why-hitori-rocks/featured-picrew.png" />
     </item>
     
   </channel>
