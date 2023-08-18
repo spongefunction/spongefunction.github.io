@@ -78,5 +78,25 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://spongefunction.github.io/posts/why-hitori-rocks/featured-picrew.png" />
     </item>
     
+    <item>
+      <title>一个创世神话：黄金之族</title>
+      <link>https://spongefunction.github.io/cnposts/creation-myth/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://spongefunction.github.io/cnposts/creation-myth/</guid>
+      <description>他们追寻的意义已经不再存在，造物者的失联就是对人类纷争无数的命运最大的嘲弄，而他们的命运和意义只能由自己书写，且除了自己之外，没有任何人会看到。</description>
+      
+    </item>
+    
+    <item>
+      <title>在战乱时刻遵守伦理的代价</title>
+      <link>https://spongefunction.github.io/cnposts/the-cost-of-ethics-in-war/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://spongefunction.github.io/cnposts/the-cost-of-ethics-in-war/</guid>
+      <description>想不食同类，就要付出五倍的金钱。</description>
+      
+    </item>
+    
   </channel>
 </rss>
