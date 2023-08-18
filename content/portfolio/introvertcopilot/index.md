@@ -1,9 +1,18 @@
 ---
-title: "Frontend Introvert Copilot"
-date: 2023-08-16T00:14:35-04:00
+title: "Frontend - Introvert Copilot"
+date: 2023-08-16
 draft: false
-summary: "This is summary."
-description: "This is description."
+externalUrl: "https://introvert-copilot.netlify.app/"
+summary: "A website that use ChatGPT as your social script ghostwriter! Deals with multiple context and objects."
+tags:
+- Figma
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Node.js
+- OpenAI API
+- Prompt engineering
 ---
 
-This is a group assigment of 3.
+Group assignment by me, Raymond, Tiffany and Richard.

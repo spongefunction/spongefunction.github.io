@@ -20,29 +20,33 @@
  pageRef = "posts"
  weight = 20
 
+[[main]]
+ name = "🍊 母语书写"
+ pageRef = "cnposts"
+ weight = 30
 
-#[[main]]
+# [[main]]
 #  name = "Parent"
 #  weight = 20
 
-#[[main]]
+# [[main]]
 #  name = "example sub-menu 1"
 #  parent = "Parent"
 #  pageRef = "posts"
 #  weight = 20
 
-#[[main]]
+# [[main]]
 #  name = "example sub-menu 2"
 #  parent = "Parent"
 #  pageRef = "posts"
 #  weight = 20
 
-#[[subnavigation]]
+# [[subnavigation]]
 #  name = "An interesting topic"
 #  pageRef = "tags/interesting-topic"
 #  weight = 10
 
-#[[subnavigation]]
+# [[subnavigation]]
 #  name = "My Awesome Category"
 #  pre = "github"
 #  pageRef = "categories/awesome"
@@ -64,3 +68,8 @@
   name = "Categories"
   pageRef = "categories"
   weight = 20
+
+[[footer]]
+  name = "Series"
+  pageRef = "series"
+  weight = 30
