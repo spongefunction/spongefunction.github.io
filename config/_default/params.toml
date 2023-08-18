@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
+colorScheme = "blowfish" # blowfish, avocado, leon01, leon02, leon03
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -38,8 +38,8 @@ smartTOCHideUnfocusedChildren = true
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 10
-  showMoreLink = false
+  showRecentItems = 12
+  showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false
