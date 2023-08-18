@@ -5,4 +5,7 @@ draft: false
 ---
 
 So this is my first blog in English.
+
+{{< typeit >}}
 Nice to meet you!
+{{< /typeit >}}
