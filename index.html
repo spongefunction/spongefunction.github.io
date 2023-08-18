@@ -126,6 +126,9 @@
 
 
 
+<script defer src="/lib/typeit/typeit.umd.js" integrity=""></script>
+
+
 
 
 
@@ -490,8 +493,23 @@
                         </div>
                         
                     </div>
-                    <section class="prose dark:prose-invert"><p>So this is my first blog in English.
-Nice to meet you!</p>
+                    <section class="prose dark:prose-invert"><p>So this is my first blog in English.</p>
+
+<div id="typeit-1692383512949493000"></div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+      new TypeIt("#typeit-1692383512949493000", {
+        strings: ["","Nice to meet you!",""],
+        speed:  100 ,
+        lifeLike:  false ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+</script>
 </section>
                 </div>
             </div>
@@ -1508,6 +1526,14 @@ Nice to meet you!</p>
     
 
     
+    
+    <p class="text-xs text-neutral-500 dark:text-neutral-400">
+      
+      
+      Powered by <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a> &amp; <a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>
+    </p>
     
 
   </div>
