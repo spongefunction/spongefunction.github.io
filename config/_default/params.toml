@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish" # blowfish, avocado, leon01, leon02, leon03
+colorScheme = "leon02" # blowfish, avocado, leon01, leon02, leon03
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -15,9 +15,9 @@ enableCodeCopy = true
 mainSections = ["portfolio", "posts"]
 # robots = ""
 
-disableImageOptimization = true
+disableImageOptimization = false
 
-defaultBackgroundImage = "/img/background.jpg" # used as default for background images 
+defaultBackgroundImage = "/img/background.png" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
