@@ -16,7 +16,7 @@ Working as a team can sometimes be painful. But having the priviledge to invite 
 
 In June, I saw a post on BrightSpace about a hackathon to be hold on campus. I saw a similar one last semester, but at that time I don't even understand object-oriented-programming, so I let go of the chance. But I've always been curious about hackathons - what are the ideal level of coding for participation? What will people do during the short period? Can people make practical deliverable results in such events?
 
-I went to the event with these questions, and to be honest, this hackathon isn't a typical hackathon to answer my questions. But I still solved my confusion and nervousness for tech events. The sponsor of this event is a mature student of AC who has years of experience in crowdsourcing and entrepreneurship. He is collecting website design for his new project, which is going to used in his roadshow in Montreal. This project has a chance to be deployed! It's thrilling.
+I went to the event with these questions, and to be honest, this hackathon isn't a typical hackathon to answer my questions. But I still solved my confusion and nervousness for tech events. The sponsor of this event is a mature student of AC who has years of experience in crowdsourcing and entrepreneurship. He is collecting website design for his new project, which is going to be used in his roadshow in Montreal. This project has a chance to be deployed! It's thrilling.
 
 Though we only have a short time to familiarize ourselves with his business mode and demands, we utilized our experience in other internet applications and did good research of like products.
 
